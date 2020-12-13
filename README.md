@@ -1,1 +1,11 @@
-# RickRollHakaton2020Build
+Controls:
+
+
+
+  Move - WASD
+  
+  
+  Ultra - F
+  
+  
+  Shoot - MouseLeft
