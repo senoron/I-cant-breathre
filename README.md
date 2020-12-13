@@ -6,3 +6,6 @@ Controls:
   
   
   Ultra - F
+  
+  
+  Shoot - MouseLeft
